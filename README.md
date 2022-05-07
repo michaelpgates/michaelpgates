@@ -1,12 +1,12 @@
-![Banner Image](./banner.png)
+![Banner Image](./banner.jpg)
 <!-- <h2 align='center'>Michael Gates @ michaelpgates</h2>
 <p align='center'><b>Cybersecurity & Programming Student</b></p> -->
 
-<h2>Hey! 👋</h2>
+<h2></h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=michaelpgates.michaelpgates)](https://github.com/michaelpgates) [![GitHub followers](https://img.shields.io/github/followers/michaelpgates.svg?style=social&label=Follow)](https://github.com/michaelpgates?tab=followers)
 
-<h2>My name is Michael Gates</h2>
+<h2>Hey! 👋,My name is Michael Gates</h2>
 
 💻 I'm Currently workng on
 ----------------------------
