@@ -8,9 +8,9 @@
 
 <h2>👋 Hey! My name is Michael Gates</h2>
 
-💻 I'm Currently workng on
+💻 I'm Currently working on
 ----------------------------
-- <i>Student:</i> Flatiron Cybersecurity Analyst Bootcamp. 
+- <i>Student:</i> Flatiron Cybersecurity Analyst Bootcamp
 - <i>Student:</i> Western Governors University - B.S. Network Operations and Security
 
 <h2>👀 Stats</h2>
