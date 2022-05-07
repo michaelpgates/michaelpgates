@@ -4,7 +4,7 @@
 
 <h2></h2>
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=michaelpgates.michaelpgates)](https://github.com/michaelpgates) [![GitHub followers](https://img.shields.io/github/followers/michaelpgates.svg?style=social&label=Follow)](https://github.com/michaelpgates?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/michaelpgates.svg?style=social&label=Follow)](https://github.com/michaelpgates?tab=followers)
 
 <h2>👋 Hey! My name is Michael Gates</h2>
 
