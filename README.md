@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/michaelpgates.svg?style=social&label=Follow)](https://github.com/michaelpgates?tab=followers)
 
 <h2>👋 Hey! My name is Michael Gates</h2>
+- <i>An Aspiring Cybersecurity and Programming Professional</i>
 
 💻 I'm Currently Working On...
 ----------------------------
