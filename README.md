@@ -10,7 +10,7 @@
 
 💻 I'm Currently Working On...
 ----------------------------
-- <i>Book:</i> Python Crash Course [Repository]([https://github.com/vuejs/vue](https://github.com/michaelpgates/Python-Crash-Course))
+- <i>Book:</i> Python Crash Course [Repository](https://github.com/vuejs/vue](https://github.com/michaelpgates/Python-Crash-Course)
 
 📚 Education
 ----------------------------
