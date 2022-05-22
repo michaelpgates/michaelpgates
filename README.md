@@ -8,7 +8,11 @@
 
 <h2>👋 Hey! My name is Michael Gates</h2>
 
-💻 I'm Currently working on
+💻 I'm Currently Working On...
+----------------------------
+- <i>Book:</i> Python Crash Course
+
+📚 Education
 ----------------------------
 - <i>Student:</i> Flatiron Cybersecurity Analyst Bootcamp
 - <i>Student:</i> Western Governors University - B.S. Network Operations and Security
