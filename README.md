@@ -18,17 +18,15 @@
 - <i>Student:</i> Flatiron Cybersecurity Analyst Bootcamp
 - <i>Student:</i> Western Governors University - B.S. Network Operations and Security
 
-<h2>👀 Stats</h2>
+<!-- <h2>👀 Stats</h2>
 
 <div>
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelpgates" alt="GitHub Stats" /> <br/><br/>
-  <!--- <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=michaelpgates" alt="WakaTime" /> --->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelpgates" alt="GitHub Stats" /> <br/><br/>  
   </p>
-</div>
+</div> -->
 
 <h2>📖 About me</h2>
 
